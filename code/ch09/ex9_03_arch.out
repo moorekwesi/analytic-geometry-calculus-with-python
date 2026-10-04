@@ -1,0 +1,7 @@
+arch: y = 50 - 0.003472 x^2   (i.e. x^2 = -4c(y - 50) with c = 72.0 m)
+x =   0 m from the centre: height of arch =  50.00 m
+x =  30 m from the centre: height of arch =  46.88 m
+x =  60 m from the centre: height of arch =  37.50 m
+x =  90 m from the centre: height of arch =  21.88 m
+x = 110 m from the centre: height of arch =   7.99 m
+x = 120 m from the centre: height of arch =   0.00 m

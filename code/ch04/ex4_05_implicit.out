@@ -1,0 +1,4 @@
+x y^2 + 6y + x = 0   : dy/dx = (-y**2 - 1)/(2*(x*y + 3))
+cos(xy) + sin x = 1  : dy/dx = (-y + cos(x)/sin(x*y))/x
+x^2 + y^2 = 25       : dy/dx = -x/y ; at (3, 4) it is -3/4
+x^2 + y^2 = 1        : y'' = (-x**2 - y**2)/y**3 -> y^3 y'' = -1

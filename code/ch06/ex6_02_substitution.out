@@ -1,0 +1,7 @@
+∫ sqrt(5*x + 7)                    dx = 2*(5*x + 7)**(3/2)/15          + C   correct: True
+∫ (x**2 - 1)/(x**3 - 3*x + 1)**6   dx = -1/(15*(x**3 - 3*x + 1)**5)    + C   correct: True
+∫ sin(5*x)*cos(5*x)**3             dx = -cos(5*x)**4/20                + C   correct: True
+∫ exp(sqrt(x))/sqrt(x)             dx = 2*exp(sqrt(x))                 + C   correct: True
+∫ log(x)/x                         dx = log(x)**2/2                    + C   correct: True
+∫ cos(4*x)                         dx = sin(4*x)/4                     + C   correct: True
+∫ x**2*(2*x**3 + 1)**7             dx = (2*x**3 + 1)**8/48             + C   correct: True

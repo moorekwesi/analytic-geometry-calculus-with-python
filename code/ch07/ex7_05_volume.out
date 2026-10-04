@@ -1,0 +1,4 @@
+sphere : 4*pi*r**3/3
+cone   : pi*h*r**2/3
+washer : 64*pi/15
+pot    : 15360 + 7040*pi ≈ 37477 cm^3 ≈ 37.5 litres

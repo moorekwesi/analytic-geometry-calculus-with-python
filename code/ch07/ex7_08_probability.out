@@ -1,0 +1,4 @@
+total area under the density = 1.000000
+P(40 <= mark <= 70) ≈ 0.789
+P(70 <= mark <= 100) ≈ 0.106
+P(0 <= mark <= 40) ≈ 0.106

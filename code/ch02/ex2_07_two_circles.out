@@ -1,0 +1,5 @@
+(6.324555320336759, 'intersect at two points')
+(10.0, 'touch externally')
+(1.4142135623730951, 'one inside the other')
+Common chord: 12*x + 4*y - 49 = 0
+Intersection points: [(2.6753, 4.2241), (4.6747, -1.7741)]

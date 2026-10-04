@@ -1,0 +1,5 @@
+critical x = -1: f'' = -8 -> local max, f = 13
+critical x = 0: f'' = 4 -> local min, f = 12
+critical x = 1: f'' = -8 -> local max, f = 13
+possible inflection at x = -sqrt(3)/3, f = 113/9
+possible inflection at x = sqrt(3)/3, f = 113/9

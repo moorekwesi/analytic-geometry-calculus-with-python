@@ -1,0 +1,5 @@
+x²+y²+3x−6y−1=0            B²−4AC =    -4  -> circle
+3x²+4y²+24x−16y+52=0       B²−4AC =   -48  -> ellipse
+x²+4y+8x+4=0               B²−4AC =     0  -> parabola
+16x²−9y²−128x−18y+103=0    B²−4AC =   576  -> hyperbola
+x²+2xy+y²+6x−34y−71=0      B²−4AC =     0  -> parabola

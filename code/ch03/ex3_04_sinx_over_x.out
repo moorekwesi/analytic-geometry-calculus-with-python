@@ -1,0 +1,5 @@
+x =    10 degrees:  sin(x)/x = 0.01736482
+x =     1 degrees:  sin(x)/x = 0.01745241
+x =   0.1 degrees:  sin(x)/x = 0.01745328
+x =  0.01 degrees:  sin(x)/x = 0.01745329
+pi/180 = 0.017453292519943295

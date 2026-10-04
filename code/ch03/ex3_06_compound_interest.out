@@ -1,0 +1,15 @@
+    compounded        n   balance after 1 year
+        yearly        1              1120.0000
+       monthly       12              1126.8250
+        weekly       52              1127.3410
+         daily      365              1127.4746
+        hourly     8760              1127.4959
+  every minute   525600              1127.4968
+  continuously        ∞              1127.4969
+
+(1 + 1/n)^n with n =       1: 2.00000000
+(1 + 1/n)^n with n =      10: 2.59374246
+(1 + 1/n)^n with n =     100: 2.70481383
+(1 + 1/n)^n with n =    1000: 2.71692393
+(1 + 1/n)^n with n = 1000000: 2.71828047
+e = 2.718281828459045

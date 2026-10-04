@@ -1,0 +1,5 @@
+Road 1: y = x/2 + 1  discriminant =   121.00  -> 2 points [(-4.8, -1.4), (4.0, 3.0)]
+                     length of road inside coverage = 9.839 km
+Road 2: y = 5        discriminant =     0.00  -> tangent [(0.0, 5.0)]
+Road 3: y = -x + 9   discriminant =  -124.00  -> misses []
+[(-3, -2), (1, 0)]

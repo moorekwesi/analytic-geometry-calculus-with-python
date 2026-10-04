@@ -1,0 +1,6 @@
+∫ x*exp(x)         dx = (x - 1)*exp(x)                   + C   correct: True
+∫ x*cos(x)         dx = x*sin(x) + cos(x)                + C   correct: True
+∫ log(x)           dx = x*log(x) - x                     + C   correct: True
+∫ x**2*exp(x)      dx = (x**2 - 2*x + 2)*exp(x)          + C   correct: True
+∫ exp(x)*sin(x)    dx = (sin(x) - cos(x))*exp(x)/2       + C   correct: True
+∫_0^pi x sin x dx = pi

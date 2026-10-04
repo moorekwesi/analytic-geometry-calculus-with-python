@@ -1,0 +1,4 @@
+model:  T(t) = [ 0.299 -3.651 11.118 13.97 ]
+critical numbers: [6.122 2.027]
+local minimum at about 12:07, T = 13.7 min
+local maximum at about 8:01, T = 24.0 min

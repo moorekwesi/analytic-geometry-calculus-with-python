@@ -1,0 +1,2 @@
+balloon: dr/dt = 1/(25*pi) ≈ 0.012732395447351627 cm/s
+oil slick: dA/dt = 300*pi ≈ 942.5 m^2/min

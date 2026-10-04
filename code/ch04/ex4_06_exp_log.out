@@ -1,0 +1,8 @@
+d/dx[e^(x^2)] = 2*x*exp(x**2)
+d/dx[e^x sin 2x + e^(cos x)] = exp(x)*sin(2*x) + 2*exp(x)*cos(2*x) - exp(cos(x))*sin(x)
+d/dx[ln(sin x)] = cos(x)/sin(x)
+d/dx[sin(x^2+1) ln x + ln(4x^3+3)] = 12*x**2/(4*x**3 + 3) + 2*x*log(x)*cos(x**2 + 1) + sin(x**2 + 1)/x
+d/dx[4^x] = 4**x*log(4)
+d/dx[6^(sin x)] = 6**sin(x)*log(6)*cos(x)
+d/dx[log_4 x] = 1/(x*log(4))
+d/dx[x^(sin x)] = x**sin(x)*(log(x)*cos(x) + sin(x)/x)

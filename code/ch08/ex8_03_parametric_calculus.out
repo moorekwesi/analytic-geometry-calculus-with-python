@@ -1,0 +1,6 @@
+dy/dx = -sin(t)/(cos(t) - 1)
+slope at t = pi/2: 1
+d2y/dx2 = -1/(r*(cos(t) - 1)**2)
+tangent at t = pi/2 (r = 1): y = X - pi/2 + 2
+check speed formula: 0
+length of one arch = 8*r

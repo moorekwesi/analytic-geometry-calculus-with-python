@@ -1,0 +1,4 @@
+B = Point2D(5, 4)
+D = Point2D(2, 5)
+M = Point2D(7/2, 9/2)   C = Point2D(6, 7)
+Perpendicular bisector of AB: -4*x - 2*y + 18 = 0

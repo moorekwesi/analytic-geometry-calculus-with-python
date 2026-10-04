@@ -1,0 +1,5 @@
+Eq(y, 5*x - 2)
+Fare line: Eq(y, 5*x/2 + 8)
+per-km rate = 5/2   base fare = 8
+Predicted fare for a 15 km trip: 91/2
+General form: Eq(5*x - 2*y + 16, 0)

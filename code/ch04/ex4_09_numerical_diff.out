@@ -1,0 +1,12 @@
+       h   forward error   central error
+     0.1        4.29e-02        9.00e-04
+    0.01        4.22e-03        9.00e-06
+   0.001        4.21e-04        9.01e-08
+  0.0001        4.21e-05        9.00e-10
+t =  0 s   speed ~   6.0 m/s =  21.6 km/h
+t = 10 s   speed ~  10.5 m/s =  37.8 km/h
+t = 20 s   speed ~  18.0 m/s =  64.8 km/h
+t = 30 s   speed ~  21.5 m/s =  77.4 km/h
+t = 40 s   speed ~  20.5 m/s =  73.8 km/h
+t = 50 s   speed ~  16.0 m/s =  57.6 km/h
+t = 60 s   speed ~  13.0 m/s =  46.8 km/h

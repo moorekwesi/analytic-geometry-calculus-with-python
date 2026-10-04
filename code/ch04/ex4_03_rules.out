@@ -1,0 +1,9 @@
+d/dx[x^5] = 5*x**4
+d/dx[1/cbrt(x)] = -1/(3*x**(4/3))
+d/dx[x^7 + sqrt(x)] = 7*x**6 + 1/(2*sqrt(x))
+d/dx[3 sqrt(x) + 5x^2] = 10*x + 3/(2*sqrt(x))
+d/dx[(x^2+x-1)(2x+4)] = 6*x**2 + 12*x + 2
+d/dx[(x^4+2x-1)/(3x^2+5)] = 2*(3*x**5 + 10*x**3 - 3*x**2 + 3*x + 5)/(9*x**4 + 30*x**2 + 25)
+d/dx[x sin x - cos x] = x*cos(x) + 2*sin(x)
+d/dx[(x^2+2)/(1+sin x)] = (2*x*(sin(x) + 1) - (x**2 + 2)*cos(x))/(sin(x) + 1)**2
+d/dx[tan x/(1 + 2 sec x)] = (2*cos(x) + 1)/(cos(x) + 2)**2

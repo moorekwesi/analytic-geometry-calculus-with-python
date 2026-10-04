@@ -1,0 +1,4 @@
+eps = 1      found delta = 0.125        textbook delta = min(1, eps/5) = 0.2
+eps = 0.1    found delta = 0.015625     textbook delta = min(1, eps/5) = 0.02
+eps = 0.01   found delta = 0.00195312   textbook delta = min(1, eps/5) = 0.002
+eps = 0.001  found delta = 0.000244141  textbook delta = min(1, eps/5) = 0.0002

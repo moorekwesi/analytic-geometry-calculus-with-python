@@ -1,0 +1,5 @@
+lim (-x + exp(x) - 1)/x**2 x->0   = 1/2   (f'/g' -> 1/2)
+lim log(x)/(x - 1)         x->1   = 1     (f'/g' -> 1)
+lim (x - sin(x))/x**3      x->0   = 1/6   (f'/g' -> 1/6)
+lim log(x)/x               x->oo  = 0     (f'/g' -> 0)
+lim x**2*exp(-x)           x->oo  = 0     (f'/g' -> 0)

@@ -1,0 +1,10 @@
+f(x)       = x**2 - 4*x + 3
+factorised = (x - 3)*(x - 1)
+roots      = [1, 3]
+(x+1)^3    = x**3 + 3*x**2 + 3*x + 1
+f(5)       = 8
+1/2
+2*sqrt(2)
+limit of sin(x)/x as x->0: 1
+derivative of f: 2*x - 4
+integral of f: x**3/3 - 2*x**2 + 3*x

@@ -1,0 +1,3 @@
+point: (1, 2)  gradient f'(1) = 6
+tangent: y = 6*x - 4
+normal : y = 13/6 - x/6    i.e. x + 6y = 13

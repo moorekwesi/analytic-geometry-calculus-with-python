@@ -1,0 +1,6 @@
+cardioid slope at theta = pi/2: 1
+area of cardioid r = a(1 + cos θ): 3*pi*a**2/2
+one petal of r = cos 2θ          : pi/8
+whole circle r = 2a cos θ        : pi*a**2
+inside r = 3 sin θ, outside r = 1 + sin θ: pi
+length of the cardioid r = 1 + cos θ: 8

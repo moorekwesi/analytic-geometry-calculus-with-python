@@ -1,0 +1,6 @@
+∫_1^2 x dx                = 3/2
+∫_2^10 3/sqrt(5x-1) dx    = 24/5
+∫_0^pi sin x dx           = 2
+∫_0^2pi sin x dx          = 0  (signed area!)
+G(x) = ∫_0^x (t^3 + 1) dt = x**4/4 + x ;  G'(x) = x**3 + 1
+segment = 4/3 , triangle = 1 , ratio = 4/3

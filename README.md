@@ -1,6 +1,6 @@
 # Analytic Geometry and Calculus with Python
 
-[![Book: CC BY 4.0](https://img.shields.io/badge/book-CC%20BY%204.0-lightgrey.svg)](LICENSE-BOOK.md)
+[![Book: CC BY-NC-ND 4.0](https://img.shields.io/badge/book-CC%20BY--NC--ND%204.0-lightgrey.svg)](LICENSE-BOOK.md)
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 
 <img src="cover.png" alt="Cover of the book" width="260" align="right">
@@ -11,7 +11,7 @@
 📘 **Download the book (PDF):** [Analytic_Geometry_and_Calculus_with_Python_4th_Edition.pdf](Analytic_Geometry_and_Calculus_with_Python_4th_Edition.pdf)
 
 This repository contains the book and all of its Python programs and Jupyter notebooks. It is
-free for students and teachers to use, share and adapt.
+free for students and teachers to use and share.
 
 ## About the book
 
@@ -119,14 +119,16 @@ python run_all.py ch05     # only Chapter 5
 
 ## Permissions and licence
 
-You are free to use, share and adapt these materials for teaching, learning or any other
-purpose, as long as you give credit to the author.
+You are free to use and share these materials for teaching and learning, as long as you give
+credit to the author.
 
 - **The book (course material)**,
   `Analytic_Geometry_and_Calculus_with_Python_4th_Edition.pdf`, is licensed under the
-  [Creative Commons Attribution 4.0 International Licence (CC BY 4.0)](LICENSE-BOOK.md).
-  You may copy, print, redistribute and adapt it, provided you credit the author, link to the
-  licence and indicate any changes.
+  [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Licence
+  (CC BY-NC-ND 4.0)](LICENSE-BOOK.md). You may download, print and share it free of charge,
+  in its original form, provided you credit the author. You may **not** sell it, and you may
+  **not** distribute modified versions of it. For other uses (translations, adapted editions,
+  commercial printing), please contact the author via [https://moorestephen.info/](https://moorestephen.info/).
 - **The Python code** (`code/`, `notebooks/`, `tools/` and `run_all.py`) is licensed under the
   [MIT Licence](LICENSE). You may use, copy, modify and distribute it freely, provided the
   copyright notice and licence text are kept.
